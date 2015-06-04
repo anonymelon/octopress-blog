@@ -1,0 +1,19 @@
+---
+layout: post
+title: "about me"
+date: 2015-06-03 23:27:39 +0800
+comments: true
+categories:
+---
+
+  Web后台Dev, 主攻脚本方向，熟悉linux，喜欢命令行，现以Rails谋生，正准备被前端折腾中。
+
+  搞过自动化测试，折腾过自动化部署，脑子里想着怎么通过自动化偷懒。。
+
+  写过python, 用过node, 发现还是对ruby情有独钟。经常大脑洞开，喜欢折腾。
+
+  工作3年，只是想好好地码代码，开开心心的吃喝玩乐，单线程生物。
+
+# Email
+
+  anonymelon#163.com
